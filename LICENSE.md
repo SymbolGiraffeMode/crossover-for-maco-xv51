@@ -1,4 +1,4 @@
-
+smart CrossOver for macOS Plugin | seamless-integration + hardware-acceleration is the best CrossOver for macOS plugin, featuring seamless-integration and hardware-acceleration.
 
 
 
